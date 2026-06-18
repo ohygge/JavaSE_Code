@@ -1,0 +1,2 @@
+this is JavaBasicSyntaxAndDataTypes module
+‌基本语法和数据类型‌：包括Java的基本语法规则、数据类型（基本数据类型和引用数据类型）等‌。

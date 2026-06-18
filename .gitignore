@@ -1,0 +1,10 @@
+# .gitignore file
+target/
+*.iml
+.idea/
+out/
+*.class
+# Mac系统文件
+.DS_Store
+**/.DS_Store
+

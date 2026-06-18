@@ -1,0 +1,2 @@
+this is JavaMultithreadedProgramming module
+‌多线程支持‌：Java SE支持多线程编程，提供相应的API和类库‌。

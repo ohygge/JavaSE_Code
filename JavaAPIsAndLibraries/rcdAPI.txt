@@ -1,0 +1,2 @@
+this is JavaAPIsAndLibraries module
+‌丰富的API和类库‌：Java SE提供了大量的API和类库，支持各种开发需求，如IO流、集合框架、反射、注解等‌。

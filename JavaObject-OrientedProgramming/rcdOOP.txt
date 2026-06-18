@@ -1,0 +1,5 @@
+this is JavaObject-OrientedProgramming module
+‌面向对象编程‌：包括类的定义与特点、对象的定义与特点、类与对象的关系、继承与多态、接口和抽象类等‌。
+面向对象三大特性：封装，继承，多态
+类型系统 & 编译期安全：
+泛型（Generic），枚举，注解
