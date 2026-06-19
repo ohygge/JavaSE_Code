@@ -1,0 +1,2 @@
+className=com.a13Reflect.Student
+methodName=study
