@@ -1,0 +1,3 @@
+module MyTwo {
+    requires MyOne;
+}

@@ -64,7 +64,7 @@ public class BufferedStreamDemo {
         callName(str2); // 读取文件内容名词用来随机点名
         arrayListToFile(str2); // 学生信息集合写到文件
         fileToArrayList(str2); // 文件数据存入ArrayList集合按照规则打印控制台
-        scoreToFile(str2); // 学生成绩集合按照规则写入文件
+//        scoreToFile(str2); // 学生成绩集合按照规则写入文件
 
     }
 
